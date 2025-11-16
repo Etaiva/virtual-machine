@@ -1,1 +1,42 @@
-A knowledge hub where you collect all the references, links, and notes that support your learning journey.
+`resources/` → A knowledge hub to collect all the references, links, and notes that support your learning journey.
+
+📚 What RESOURCES.md Would Cover
+Learning Platforms → Sites for guided labs, tutorials, and challenges.
+Documentation & Cheat Sheets → Quick references for Linux, Parrot OS, Python security libraries, and common tools.
+Security Tools → Official docs and usage notes for Nmap, Wireshark, Metasploit, SQLMap, Hydra, etc.
+Books & Guides → Cybersecurity and networking fundamentals.
+Communities & Forums → Places to ask questions and follow industry discussions.
+Certifications & Roadmaps → Study resources for Security+, CEH, OSCP, etc.
+
+# VM Resources
+
+## Learning Platforms
+- https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
+- https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
+- https://www.oracle.com/africa/virtualization/technologies/vm/downloads/virtualbox-downloads.html 
+
+## Documentation & Cheat Sheets
+- [Linux Command Cheat Sheet](cheatsheets/linux.md)
+- [Parrot OS Security Tools](cheatsheets/parrot-tools.md)
+- [Python Security Libraries](cheatsheets/python-security.md)
+
+## Security Tools
+- [Nmap Documentation](https://nmap.org/book/man.html)
+- [Wireshark User Guide](https://www.wireshark.org/docs/)
+- [Metasploit Framework](https://docs.rapid7.com/metasploit/)
+- [SQLMap](http://sqlmap.org/) – Automated SQL injection tool
+
+## Books & Guides
+- *The Web Application Hacker’s Handbook* – Web security fundamentals
+- *Linux Basics for Hackers* – Command line and scripting essentials
+- *Practical Malware Analysis* – Reverse engineering and malware study
+
+## Communities
+- [r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
+- [OWASP](https://owasp.org) – Open Web Application Security Project
+- [Krebs on Security](https://krebsonsecurity.com) – Security news and analysis
+
+## Certifications
+- 
+
+
