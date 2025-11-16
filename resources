@@ -10,10 +10,17 @@ Certifications & Roadmaps → Study resources for Security+, CEH, OSCP, etc.
 
 # VM Resources
 
+## Open Source Platforms
+- https://www.linux.org/pages/download/
+- https://parrotsec.org/docs/introduction/download-parrot/
+- https://www.kali.org/
+- https://www.kernel.org/
+
 ## Learning Platforms
 - https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
 - https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
 - https://www.oracle.com/africa/virtualization/technologies/vm/downloads/virtualbox-downloads.html 
+- https://www.geeksforgeeks.org/linux-unix/30-days-of-linux/
 
 ## Documentation & Cheat Sheets
 - [Linux Command Cheat Sheet](cheatsheets/linux.md)
@@ -25,7 +32,6 @@ Certifications & Roadmaps → Study resources for Security+, CEH, OSCP, etc.
 - [Wireshark User Guide](https://www.wireshark.org/docs/)
 - [Metasploit Framework](https://docs.rapid7.com/metasploit/)
 - [SQLMap](http://sqlmap.org/) – Automated SQL injection tool
-- https://parrotsec.org/docs/introduction/download-parrot/
 
 ## Books & Guides
 - *The Web Application Hacker’s Handbook* – Web security fundamentals
@@ -33,9 +39,7 @@ Certifications & Roadmaps → Study resources for Security+, CEH, OSCP, etc.
 - *Practical Malware Analysis* – Reverse engineering and malware study
 
 ## Communities
-- [r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
-- [OWASP](https://owasp.org) – Open Web Application Security Project
-- [Krebs on Security](https://krebsonsecurity.com) – Security news and analysis
+- 
 
 ## Certifications
 - 
